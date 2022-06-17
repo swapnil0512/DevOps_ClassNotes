@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
        - name: app
-         image: edu123/myimage:CICD
+         image: swapnil0512/projectimage:CICD
 ---
 kind: Service
 apiVersion: v1
